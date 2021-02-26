@@ -1,0 +1,24 @@
+{
+  "pluginName": "ShowTime",
+  "description": "查看当前时间",
+  "version": "0.0.1",
+  "logo": "showTime.png",
+  "preload": "preload.js",
+  "author": "ShiO(shiogong@qq.com)",
+  "homepage": "",
+  "platform": [
+    "darwin",
+    "linux",
+    "windows"
+  ],
+  "features": [
+    {
+      "code": "showTime",
+      "explain": "查看当前时间",
+      "cmds": [
+        "时间",
+        "sj"
+      ]
+    }
+  ]
+}
